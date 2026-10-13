@@ -109,7 +109,7 @@ Mở notebook trên Google Colab; cần thêm `VnCoreNLP-1.2` và `Viet74K.txt` 
 
 ## Tác giả
 
-**Đoàn Thị Kim Ánh** [doankimanh@gmail.com] – Data Analyst hướng tới AI/ML Engineer · [GitHub]([https://github.com/](https://github.com/AnhDoan714/youtube-shorts-trend-analysis.git)) 
+**Đoàn Thị Kim Ánh** [doankimanh716@gmail.com] – Data Analyst hướng tới AI/ML Engineer · [GitHub]([https://github.com/](https://github.com/AnhDoan714/youtube-shorts-trend-analysis.git)) 
 ````
 ````
 
